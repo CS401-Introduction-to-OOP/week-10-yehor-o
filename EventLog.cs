@@ -32,5 +32,5 @@ public class EventLog : IEnumerable<Event>
         }
     }
     
-    public void OrderBySteps() => _events.OrderBy(x => x.NumbStep);
+    public IEnumerable<Event> OrderBySteps() => _events.OrderBy(x => x.NumbStep);
 }

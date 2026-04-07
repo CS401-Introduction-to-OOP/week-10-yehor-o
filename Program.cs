@@ -27,8 +27,13 @@ class Program
         }
         
         Console.WriteLine();
-        
-        
+
+        var orderedBySteps = eventLog.OrderBySteps();
+
+        foreach (var x in orderedBySteps)
+        {
+            Console.WriteLine(x);
+        }
         
         Console.WriteLine();
 
@@ -59,5 +64,14 @@ class Program
         Console.WriteLine();
         
         Console.WriteLine(characters.MaxGold());
+        
+        Console.WriteLine();
+
+        var names = characters.Select(x => x.Name);
+
+        foreach (var x in names)
+        {
+            Console.WriteLine(x);
+        }
     }
 }

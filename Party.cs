@@ -37,11 +37,13 @@ public class Party : IEnumerable<Person>
 
     public IEnumerable<Person> SortByLvl(int lvl)
     {
-        return _characters.Where(x => x.Level > 60);
+        return _characters.Where(x => x.Level > lvl);
     }
 
-    public Person MaxGold()
+    public Person? MaxGold()
     {
-        return _characters.OrderByDescending(x => x.Gold).First();
+        return _characters.MaxBy(x => x.Gold);
     }
+
+
 }

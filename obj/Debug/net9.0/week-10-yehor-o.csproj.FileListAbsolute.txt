@@ -12,3 +12,4 @@
 /Users/egorovodov/RiderProjects/week-10-yehor-o/obj/Debug/net9.0/week-10-yehor-o.pdb
 /Users/egorovodov/RiderProjects/week-10-yehor-o/obj/Debug/net9.0/week-10-yehor-o.genruntimeconfig.cache
 /Users/egorovodov/RiderProjects/week-10-yehor-o/obj/Debug/net9.0/ref/week-10-yehor-o.dll
+/Users/egorovodov/RiderProjects/week-10-yehor-o/obj/Debug/net9.0/week-10-yehor-o.sourcelink.json
