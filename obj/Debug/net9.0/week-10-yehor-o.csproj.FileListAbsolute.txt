@@ -1,0 +1,14 @@
+/Users/egorovodov/RiderProjects/week-10-yehor-o/obj/Debug/net9.0/week-10-yehor-o.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egorovodov/RiderProjects/week-10-yehor-o/obj/Debug/net9.0/week-10-yehor-o.AssemblyInfoInputs.cache
+/Users/egorovodov/RiderProjects/week-10-yehor-o/obj/Debug/net9.0/week-10-yehor-o.AssemblyInfo.cs
+/Users/egorovodov/RiderProjects/week-10-yehor-o/obj/Debug/net9.0/week-10-yehor-o.csproj.CoreCompileInputs.cache
+/Users/egorovodov/RiderProjects/week-10-yehor-o/bin/Debug/net9.0/week-10-yehor-o
+/Users/egorovodov/RiderProjects/week-10-yehor-o/bin/Debug/net9.0/week-10-yehor-o.deps.json
+/Users/egorovodov/RiderProjects/week-10-yehor-o/bin/Debug/net9.0/week-10-yehor-o.runtimeconfig.json
+/Users/egorovodov/RiderProjects/week-10-yehor-o/bin/Debug/net9.0/week-10-yehor-o.dll
+/Users/egorovodov/RiderProjects/week-10-yehor-o/bin/Debug/net9.0/week-10-yehor-o.pdb
+/Users/egorovodov/RiderProjects/week-10-yehor-o/obj/Debug/net9.0/week-10-yehor-o.dll
+/Users/egorovodov/RiderProjects/week-10-yehor-o/obj/Debug/net9.0/refint/week-10-yehor-o.dll
+/Users/egorovodov/RiderProjects/week-10-yehor-o/obj/Debug/net9.0/week-10-yehor-o.pdb
+/Users/egorovodov/RiderProjects/week-10-yehor-o/obj/Debug/net9.0/week-10-yehor-o.genruntimeconfig.cache
+/Users/egorovodov/RiderProjects/week-10-yehor-o/obj/Debug/net9.0/ref/week-10-yehor-o.dll
